@@ -58,9 +58,4 @@ At the moment there are 3 types of commands supported:
 ```
 
 ### Additional information
-This project has uses a modified version of my other project [pico-mpad](https://github.com/dr-mod/pico-mpad) you can find more configuration examples and information there. 
-
-### Support the project
-If you would like to support what I do and keep me caffeinated, you can do it here:
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/drmod)
+This project has uses a modified version of my other project [pico-mpad](https://github.com/dr-mod/pico-mpad) you can find more configuration examples and information there.
